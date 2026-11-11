@@ -1,0 +1,62 @@
+{
+  "page": "home",
+  "path": "/",
+  "profile": "mobile",
+  "runs": [
+    {
+      "run": 1,
+      "scores": {
+        "performance": 65,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "metrics": {
+        "lcpMs": 3230.9762,
+        "cls": 0,
+        "tbtMs": 2069.5
+      }
+    },
+    {
+      "run": 2,
+      "scores": {
+        "performance": 61,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "metrics": {
+        "lcpMs": 3584.2521999999994,
+        "cls": 0,
+        "tbtMs": 3352.5
+      }
+    },
+    {
+      "run": 3,
+      "scores": {
+        "performance": 62,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "metrics": {
+        "lcpMs": 3480.631,
+        "cls": 0,
+        "tbtMs": 2846.5
+      }
+    }
+  ],
+  "median": {
+    "scores": {
+      "performance": 62,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "lcpMs": 3480.631,
+      "cls": 0,
+      "tbtMs": 2846.5
+    }
+  }
+}

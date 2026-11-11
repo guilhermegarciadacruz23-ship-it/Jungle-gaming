@@ -1,0 +1,62 @@
+{
+  "page": "home",
+  "path": "/",
+  "profile": "desktop",
+  "runs": [
+    {
+      "run": 1,
+      "scores": {
+        "performance": 64,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "metrics": {
+        "lcpMs": 1863.05,
+        "cls": 0,
+        "tbtMs": 737.1610000000001
+      }
+    },
+    {
+      "run": 2,
+      "scores": {
+        "performance": 84,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "metrics": {
+        "lcpMs": 2262.964,
+        "cls": 0.06685250518108136,
+        "tbtMs": 9.29600000000005
+      }
+    },
+    {
+      "run": 3,
+      "scores": {
+        "performance": 87,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "metrics": {
+        "lcpMs": 1653.723,
+        "cls": 0.06685250518108136,
+        "tbtMs": 188.51700000000005
+      }
+    }
+  ],
+  "median": {
+    "scores": {
+      "performance": 84,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "lcpMs": 1863.05,
+      "cls": 0.06685250518108136,
+      "tbtMs": 188.51700000000005
+    }
+  }
+}

@@ -1,0 +1,15 @@
+OpenMoji color monkey illustrations:
+  Monkey face (1F435), see-no-evil (1F648), hear-no-evil (1F649),
+  and speak-no-evil (1F64A)
+  Artists: OpenMoji contributors
+  License: CC BY-SA 4.0
+  Source: https://openmoji.org/library/
+  Project: https://github.com/hfg-gmuend/openmoji
+
+Monkey illustration assets used by the Kurio demo marketplace:
+
+ape-sailor.svg
+  Sailor monkey without hat
+  Artist: Nicu Buculei and Odder
+  License: CC0 1.0
+  Source: https://commons.wikimedia.org/wiki/File:Sailor_monkey_without_hat.svg

@@ -1,0 +1,62 @@
+{
+  "page": "nft-detail",
+  "path": "/nft/nft-001",
+  "profile": "desktop",
+  "runs": [
+    {
+      "run": 1,
+      "scores": {
+        "performance": 82,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "metrics": {
+        "lcpMs": 1398.637,
+        "cls": 0,
+        "tbtMs": 321.5440000000001
+      }
+    },
+    {
+      "run": 2,
+      "scores": {
+        "performance": 74,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "metrics": {
+        "lcpMs": 1809.59,
+        "cls": 0.06685250518108136,
+        "tbtMs": 308.13599999999997
+      }
+    },
+    {
+      "run": 3,
+      "scores": {
+        "performance": 95,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "metrics": {
+        "lcpMs": 1211.764,
+        "cls": 0,
+        "tbtMs": 133.18599999999992
+      }
+    }
+  ],
+  "median": {
+    "scores": {
+      "performance": 82,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "lcpMs": 1398.637,
+      "cls": 0,
+      "tbtMs": 308.13599999999997
+    }
+  }
+}
